@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/baidu/tensorflowexample/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/baidu/tensorflowexample/examples/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/baidu/tensorflowexample/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/baidu/tensorflowexample/examples/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/baidu/tensorflowexample/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/baidu/tensorflowexample/examples/android/res/drawable-hdpi/ic_launcher.png"
+    }
+]

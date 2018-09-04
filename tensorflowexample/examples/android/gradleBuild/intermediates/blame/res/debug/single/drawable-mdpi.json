@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/baidu/tensorflowexample/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/baidu/tensorflowexample/examples/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/baidu/tensorflowexample/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/baidu/tensorflowexample/examples/android/res/drawable-mdpi/ic_action_info.png"
+    }
+]
