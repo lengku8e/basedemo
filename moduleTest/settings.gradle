@@ -1,0 +1,2 @@
+include ':app', ':base', ':login', ':share', ':componentbase'
+project(':base').projectDir = new File(settingsDir, '../base')

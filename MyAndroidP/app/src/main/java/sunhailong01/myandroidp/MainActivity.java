@@ -15,12 +15,14 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
 import dalvik.system.DexClassLoader;
+import pl.droidsonroids.gif.GifImageButton;
 
 public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        GifImageButton gifImageButton = new GifImageButton(getBaseContext());
         File sdcardDir =Environment.getExternalStorageDirectory();
         path=sdcardDir.getPath()+"/dexOpt";
         requestPermissions(new String[]{
